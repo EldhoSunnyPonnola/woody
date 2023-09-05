@@ -1,0 +1,186 @@
+icon links */
+
+
+
+
+/* fontlink */
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@500&display=swap');
+
+
+
+.icn1{
+    display: flex;
+
+}
+.nav2{
+ display: flex;
+ margin-left: 1000px;
+ 
+  
+}
+.social img{
+   padding-left: 20px;
+}
+
+.sec1{
+    display: flex;
+}
+
+
+/* NAVBAR */
+
+.logo{
+  color: rgb(187, 109, 45);
+}
+.btnm{
+  background-color:rgb(187, 109, 45);
+  
+}
+
+
+
+
+
+/* end */
+.carousel-caption .h5 .h1 .p{
+  font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  
+}
+.cimg{
+    filter: brightness(50%);
+}
+.carousel-caption {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+
+  
+  color: white;
+  text-align: center;
+      
+}
+
+
+
+.sec1{
+
+justify-content: center;
+}
+.sec1 img {
+  padding-top: 70px;
+  padding-left: 200px;
+}
+.sec1 h1{
+  padding-top:80px;
+  padding-left: 60px;
+}
+.sec1para{
+  display: flex;
+ 
+}
+.sec1para h3{
+  padding-left: 230px;
+  padding-top: 20px;
+  padding-bottom: 90px;
+}
+
+
+
+.about{
+  display: flex;
+  background-color: rgb(244, 244, 244);
+}
+
+
+.paraabt{
+      padding-top: 60px;
+      padding-left: 40px;
+}
+.paraabt p{
+  width: 70%;
+  font-size: 24px;
+}
+
+.parasc2{
+  display: flex;
+  padding-top: 60px;
+}
+.parasc2h3{
+  margin-top: 50px;
+}
+.i1{
+  margin-left: 280px;
+}
+.p1{
+  margin-top: 60px;
+  padding-left: 10px; 
+}
+.p2{
+  margin-top: 60px;
+  padding-left: 10px;
+}
+.abtpara{
+  display: flex;
+}
+.abtpara p{
+  padding-left: 60px;
+}
+.b1{
+  width: 240px;
+  height: 70px;
+  background-color: rgb(187, 109, 45);
+  color: white;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+/* our services */
+.os h1{
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.card img{
+  transition: .3s;
+}
+
+.card img:hover{
+    transform: scale(1.1);
+   
+
+}
+/* end */
+
+/* why choose us */
+
+
+.wcu{
+  padding-top: 150px;
+  display: flex;
+}
+
+.sec2{
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+.sec2 h1{
+  padding-left: 50px;
+}
+.sec2 p{
+  padding-top: 40px;
+  padding-left: 50px;
+  width: 70%;
+  font-size: 25px;
+  
+}
+.sec2i{
+  display: flex;
+}
+
+
+
+
+/* end */
